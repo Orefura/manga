@@ -219,10 +219,10 @@
 
           <div class="carousel-cell">
             {% if nexturl %}
-            <a href="{{site.baseurl}}/{{nexturl}}" class="nav-button next-button">次の話</a><br><br>
+            <a href="{{site.baseurl}}{{nexturl}}" class="nav-button next-button">次の話</a><br><br>
             {% endif %}
             {% if prevurl %}
-            <a href="{{site.baseurl}}/{{prevurl}}" class="nav-button previous-button">前の話</a>
+            <a href="{{site.baseurl}}{{prevurl}}" class="nav-button previous-button">前の話</a>
             {% endif %}
           </div>
       </div>
@@ -248,10 +248,10 @@
 
           <div class="carousel-cell">
             {% if nexturl %}
-            <a href="{{site.baseurl}}/{{nexturl}}" class="nav-button next-button">次の話</a><br><br>
+            <a href="{{site.baseurl}}{{nexturl}}" class="nav-button next-button">次の話</a><br><br>
             {% endif %}
             {% if prevurl %}
-            <a href="{{site.baseurl}}/{{prevurl}}" class="nav-button previous-button">前の話</a>
+            <a href="{{site.baseurl}}{{prevurl}}" class="nav-button previous-button">前の話</a>
             {% endif %}
           </div>
       </div>
@@ -404,7 +404,7 @@
                   // $('.raw-carousel').flickity('next');
                   if (flkty.selectedIndex == flkty.slides.length - 1 && selectedPage == flkty.selectedIndex) {
                     {% if nexturl %}
-                    location.href = "{{site.baseurl}}/{{nexturl}}";
+                    location.href = "{{site.baseurl}}{{nexturl}}";
                     {% endif %}
                   }
                   selectedPage = flkty.selectedIndex;
@@ -414,19 +414,19 @@
                   // $('.raw-carousel').flickity('previous');
                   if (flkty.selectedIndex == 0 && selectedPage == 0) {
                     {% if prevurl %}
-                    location.href = "{{site.baseurl}}/{{prevurl}}?page=last";
+                    location.href = "{{site.baseurl}}{{prevurl}}?page=last";
                     {% endif %}
                   }
                   selectedPage = flkty.selectedIndex;
                   break;
                 case arrow.up:
                   {% if prevurl %}
-                  location.href = "{{site.baseurl}}/{{prevurl}}";
+                  location.href = "{{site.baseurl}}{{prevurl}}";
                   {% endif %}
                   break;
                 case arrow.down:
                   {% if nexturl %}
-                  location.href = "{{site.baseurl}}/{{nexturl}}";
+                  location.href = "{{site.baseurl}}{{nexturl}}";
                   {% endif %}
                   break;
                 case arrow.d:
