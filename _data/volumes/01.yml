@@ -1,0 +1,58 @@
+volume: 01
+name: "Stone World"
+chapters:
+  - chapter: 1
+    name: "Once I Realized It, I was in a Game" 
+    raw: "気が付けばゲームの世界"
+    romaji: "Kigatsukeba gēmu no sekai"
+    novel: "1,2"
+    description: ""
+
+  - chapter: 2
+    name: "Save the Heroine's Mother!"
+    raw: "ヒロインの母を救え！"
+    romaji: "Hiroin no haha o sukue!"
+    novel: "2,3,4"
+    description: ""
+
+  - chapter: 3
+    name: "Self-Performed Rescue Act"
+    raw: "自作自演の救出劇"
+    romaji: "Jisaku jien no kyūshutsu geki)"
+    novel: "4"
+    description: ""
+
+  - chapter: 4
+    name: "Life Potion Farming Method"
+    raw: "ライフポーション農法"
+    romaji: "Raifupōshon nōhō"
+    novel: "5,6"
+    description: ""
+
+  - chapter: 5
+    name: "Persuasion Strategy"
+    raw: "懐柔作戦"
+    romaji: "Kaijū sakusen"
+    novel: "6,7"
+    description: ""
+
+  - chapter: 6
+    name: "Erica Sumeragi"
+    raw: "エリカ・スメラギ"
+    romaji: "Erika Sumeragi"
+    novel: "7"
+    description: ""
+
+  - chapter: 7.0
+    name: "Cherry Blossom"
+    raw: "サクラ"
+    romaji: "Sakura"
+    novel: "8,9"
+    description: ""
+
+  - chapter: 7.5
+    name: "Erica's Resolve"
+    raw: "エリカの決意"
+    romaji: "Erika no ketsui"
+    novel: "8"
+    description: ""

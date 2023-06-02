@@ -1,0 +1,51 @@
+volume: 02
+name: "Two Kingdoms of the Stone World"
+chapters:
+  - chapter: 8
+    name: "Erica's Invasion"
+    raw: "エリカ、襲来"
+    romaji: "Erika, shūrai"
+    novel: "9,10"
+    description: ""
+
+  - chapter: 9
+    name: "Sumeragi's Intent"
+    raw: "スメラギの思惑"
+    romaji: "Sumeragi no omowaku"
+    novel: "8,10"
+    description: ""
+
+  - chapter: 10
+    name: "The Truth behind the Lie"
+    raw: "偽りの事実"
+    romaji: "Itsuwari no jijitsu"
+    novel: "11"
+    description: ""
+
+  - chapter: 11
+    name: "Distressed Erica"
+    raw: "苦悩するエリカ"
+    romaji: "Kunō suru Erika"
+    novel: "12"
+    description: ""
+
+  - chapter: 12
+    name: "The Worst Human"
+    raw: "最低の人間"
+    romaji: "Saitei no ningen"
+    novel: "13"
+    description: ""
+
+  - chapter: 13
+    name: "Differing Thoughts"
+    raw: "すれ違う想い"
+    romaji: "Surechigau omoi"
+    novel: "14"
+    description: ""
+
+  - chapter: 14
+    name: "Zen's Thoughts"
+    raw: "ゼンの想い"
+    romaji: "Zen no omoi"
+    novel: "15,16"
+    description: ""
