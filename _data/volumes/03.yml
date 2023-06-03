@@ -1,0 +1,58 @@
+volume: 03
+name: "Two Million Years of Being"
+chapters:
+  - chapter: 15
+    name: "Conflict of Interest" 
+    raw: "絡み合う思惑"
+    romaji: "Karamiau omowaku"
+    novel: "16"
+    description: ""
+
+  - chapter: 16
+    name: "Spies"
+    raw: "探りし者"
+    romaji: "Sagurishi mono"
+    novel: "16,19"
+    description: ""
+
+  - chapter: 17
+    name: "Harold's Wager"
+    raw: "ハロルドの賭け"
+    romaji: "Harorudo no kake"
+    novel: "17"
+    description: ""
+
+  - chapter: 18
+    name: "Joint Development"
+    raw: "共同開発"
+    romaji: "Kyōdō kaihatsu"
+    novel: "18"
+    description: ""
+
+  - chapter: 19
+    name: "Spoken Truth"
+    raw: "語られた真相"
+    romaji: "Katara reta shinsō"
+    novel: "19"
+    description: ""
+
+  - chapter: 20
+    name: "True Understanding"
+    raw: "真の理解"
+    romaji: "Shin no rikai"
+    novel: "19"
+    description: ""
+
+  - chapter: 21
+    name: "Fiancée's Brother"
+    raw: "許嫁の兄"
+    romaji: "Iinazuke no ani"
+    novel: "20"
+    description: ""
+
+  - chapter: 22
+    name: "Worthy Opponent"
+    raw: "好敵手"
+    romaji: "koutekishu"
+    novel: "20"
+    description: ""
